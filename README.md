@@ -8,5 +8,5 @@
      * Decision Tree Classifier 
      * Random Forest Classifier 
      * SVC
-- The model is successfully built and has achieved the highest accuracy of 98.75%
+- The model is successfully built and has achieved the highest accuracy of *98.75%*
 
